@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotionOSC</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainSensorActivity</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="accel_sensor_message">Accelerometer Reading</string>
+    <string name="gyro_sensor_message">Gyroscope Reading</string>
+    <string name="send_gyro_reading">Send Gyro Readings</string>
+    <string name="send_timing_message">Calculate Latency</string>
+    <string name="default_send_ip">192.168.3.1</string>
+    <string name="default_send_port">1337</string>
+    <string name="send_ip">Send IP</string>
+    <string name="send_port">Send Port</string>
+    <string name="not_sending_gyro_text">Not Sending</string>
+    <string name="sending_gyro_text">Sending</string>
+    <string name="set_connection_text">Set Connection Details</string>
+
+</resources>
